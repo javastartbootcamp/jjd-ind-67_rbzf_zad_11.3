@@ -1,6 +1,6 @@
-package pl.javastart.task;
+package data;
 
-abstract class Component {
+public abstract class Component {
     private String model;
     private String producer;
     private String serialNo;
